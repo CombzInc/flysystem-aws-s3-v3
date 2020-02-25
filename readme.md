@@ -1,3 +1,6 @@
+# Happiでの利用状況
+https://github.com/CombzInc/ma/issues/2885
+
 # League\Flysystem\AwsS3v3
 
 [![Author](http://img.shields.io/badge/author-@frankdejonge-blue.svg?style=flat-square)](https://twitter.com/frankdejonge)
